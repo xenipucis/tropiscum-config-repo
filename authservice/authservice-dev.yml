@@ -1,4 +1,10 @@
 a:
   b:
     c: 100
-    
+another.value: "abcd"
+a.list:
+  - 1
+  - 2
+  - 3
+  - 5
+  
