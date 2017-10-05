@@ -21,4 +21,4 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
 example:
-  property: "licensingService Property"
+  property: "licensingService2 Property"
